@@ -1,1 +1,1 @@
-# RAG_groq
+# LLM RAG project using Groq api
